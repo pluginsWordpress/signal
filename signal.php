@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Signal
-Plugin URI: https://github.com/pluginsWordpress/Signal/blob/main/signal.php
+Plugin URI: https://github.com/pluginsWordpress/signal/blob/main/signal.php
 Description: Plugin de signal personnalisé pour WordPress
 Version: 1.0
 Author: Marouane
